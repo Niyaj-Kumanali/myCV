@@ -22,10 +22,6 @@ This CV website has been meticulously designed and developed to present my quali
 - Professional design and visually appealing elements.
 - Contact information for potential employers or collaborators to get in touch.
 
-## Screenshots
-
-[Add relevant screenshots or GIFs to showcase the design and features of your CV website]
-
 ## Usage
 
 To view my CV website, simply click on the link provided at the top of this README. Explore the different sections to learn more about my qualifications, work experience, and skills.
